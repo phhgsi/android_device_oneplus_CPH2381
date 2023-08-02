@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=CPH2381
-VENDOR=OnePlus
+DEVICE=rasgulla
+VENDOR=oneplus
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
