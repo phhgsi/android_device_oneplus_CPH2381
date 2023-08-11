@@ -930,10 +930,7 @@ odm/lib64/libarcsoft_scbokeh_image.so
 odm/lib64/libarcsoft_scbokeh_video.so
 odm/lib64/libarcsoft_smart_denoise.so
 odm/lib64/libarcsoft_supernight.so
-odm/lib64/libarcsoft_super_night_raw.so
 vendor/lib64/libarcsoft_videoautozoom.so
-bhjk
-
 vendor/lib/libmmcamera_bestats.so
 vendor/lib/libmmcamera_cac3.so
 vendor/lib/libmmcamera_faceproc.so
