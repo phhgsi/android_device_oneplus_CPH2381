@@ -3238,10 +3238,8 @@ vendor/lib64/vendor.qti.hardware.wigig.netperftuner@1.0.so
 vendor/lib64/vendor.qti.hardware.wigig.supptunnel@1.0.so
 
 # Misc
-system_ext/apex/com.android.vndk.v30.apex
 system_ext/apex/com.android.vndk.v31.apex
 system_ext/apex/com.android.vndk.v32.apex
-
 system_ext/bin/asserttip
 system_ext/bin/atlasservice
 system_ext/bin/audiolog_manager.sh
