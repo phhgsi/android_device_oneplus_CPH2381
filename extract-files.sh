@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=CPH2381
+DEVICE=oscar
 VENDOR=oneplus
 
 # Load extract_utils and do some sanity checks
