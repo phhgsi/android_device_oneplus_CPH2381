@@ -1401,14 +1401,14 @@ odm/etc/sensor/config/holi_qrd_mmc56x3x.json
 odm/etc/sensor/sensor_config.json
 
 # Sensors - REALME
-odm/etc/sensor/config/holi_bmi3x0_0.json:odm/oscarr/etc/sensor/config/holi_bmi3x0_0.json|e617bb6356fa6799ec55be29ca046bd128b7eeae
-odm/etc/sensor/config/holi_bma4_0.json|7860f2fb2e546495d244a909746acd29f80130fd
-odm/etc/sensor/config/holi_icm4x607.json|bb0ae827c14358a000f82376edfdc8103a53a010
-odm/etc/sensor/config/holi_qrd_bma4_0.json|df12041d725ed793ba6490bfa1f9a471d014139f
-odm/etc/sensor/config/holi_qrd_bmi26x_0.json|e3ade40b83afb9ffe3f5002b3747913a9b1aa602
-odm/etc/sensor/config/holi_qrd_sc7a20_0.json|ad14768272b07410941c52347b67ddc54702d8a0
-odm/etc/sensor/config/holi_sc7a20_0.json|06ff549593f9788f101c479ba96ccffe4188b8b2
-odm/etc/sensor/sensor_config.json:odm/oscarr/etc/sensor/sensor_config.json|de3fc906fe93c0c1e6e6f4066b3d480abe944f96
+R/proprietary/odm/etc/sensor/config/holi_bmi3x0_0.json:odm/oscarr/etc/sensor/config/holi_bmi3x0_0.json|e617bb6356fa6799ec55be29ca046bd128b7eeae
+R/proprietary/odm/etc/sensor/config/holi_bma4_0.json|7860f2fb2e546495d244a909746acd29f80130fd
+R/proprietary/odm/etc/sensor/config/holi_icm4x607.json|bb0ae827c14358a000f82376edfdc8103a53a010
+R/proprietary/odm/etc/sensor/config/holi_qrd_bma4_0.json|df12041d725ed793ba6490bfa1f9a471d014139f
+R/proprietary/odm/etc/sensor/config/holi_qrd_bmi26x_0.json|e3ade40b83afb9ffe3f5002b3747913a9b1aa602
+R/proprietary/odm/etc/sensor/config/holi_qrd_sc7a20_0.json|ad14768272b07410941c52347b67ddc54702d8a0
+R/proprietary/odm/etc/sensor/config/holi_sc7a20_0.json|06ff549593f9788f101c479ba96ccffe4188b8b2
+R/proprietary/odm/etc/sensor/sensor_config.json:odm/oscarr/etc/sensor/sensor_config.json|de3fc906fe93c0c1e6e6f4066b3d480abe944f96
 
 # VPU firmware
 vendor/firmware/vpu20_4v.b01
