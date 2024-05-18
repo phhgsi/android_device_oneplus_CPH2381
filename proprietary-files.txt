@@ -40,8 +40,8 @@ odm/lib/rfsa/adsp/libvdblurless_skel.so
 odm/lib/rfsa/adsp/libvdsuperphoto_skel.so
 
 # ADSP Modules - REALME
-odm/lib/rfsa/adsp/libarcsoft_dualcam_refocus_5221_skel.so|7eaa96c39d888b3345125ed58d7a116bfe2ec8a8
-odm/lib/rfsa/adsp/libvdblurless_4.6.10Y_skel.so|14b05604a1f98cb7917884d23f686d160697385f
+R/proprietary/odm/lib/rfsa/adsp/libarcsoft_dualcam_refocus_5221_skel.so|7eaa96c39d888b3345125ed58d7a116bfe2ec8a8
+R/proprietary/odm/lib/rfsa/adsp/libvdblurless_4.6.10Y_skel.so|14b05604a1f98cb7917884d23f686d160697385f
 
 # Audio
 odm/lib/libaudioEngineerTest.so
